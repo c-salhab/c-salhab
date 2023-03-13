@@ -14,8 +14,9 @@ I really enjoy the data aspect, also appreciate the automation components, progr
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/charbel-salhab-828b0a221/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Charbel Salhab | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/charbelsalhabb/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Charbel Salhab | Instagram" width="21px"/></a>
+<a href="https://www.linkedin.com/in/charbel-salhab-828b0a221/"><img align="left" src="images/linkedin.svg" alt="Charbel Salhab | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/charbelsalhabb/"><img align="left" src="images/instagram.svg" alt="Charbel Salhab | Instagram" width="21px"/></a>
+<a href="https://discordapp.com/users/689169623790518425"><img align="left" src="images/discord.png" alt="Charbel Salhab | Discord" width="21px"/></a> 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
@@ -46,3 +47,4 @@ I really enjoy the data aspect, also appreciate the automation components, progr
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=c-salhab)](https://github.com/c-salhab)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-salhab&show_icons=true&theme=radical)](https://github.com/c-salhab/github-readme-stats)
