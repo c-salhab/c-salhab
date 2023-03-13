@@ -22,7 +22,6 @@ I really enjoy the data aspect, also appreciate the automation components, progr
 
 ## 💼 Technical Skills
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -46,5 +45,5 @@ I really enjoy the data aspect, also appreciate the automation components, progr
 
 [![Yu's github stats](https://github-readme-stats.vercel.app/api?username=c-salhab)](https://github.com/c-salhab)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
+<!-- [![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=c-salhab&show_icons=true&theme=radical)](https://github.com/c-salhab/github-readme-stats)
