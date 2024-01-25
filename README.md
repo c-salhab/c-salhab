@@ -7,7 +7,7 @@ Hi there, I'm <a href="https://github.com/c-salhab" target="_blank" rel="norefer
 </h3>
 
 <h2 align="center">
-I'm a Network Security Engineering Apprentice at Murex -Paris 💻
+I'm an Automation Engineering Apprentice at Murex -Paris 💻
 </h2> 
 
 I really enjoy the data aspect, also appreciate the automation components, programming, and system design 📊.
