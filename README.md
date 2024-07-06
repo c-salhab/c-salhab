@@ -15,7 +15,7 @@ I really enjoy the data aspect, also appreciate the automation components, progr
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/charbel-salhab-828b0a221/"><img align="left" src="images/linkedin.svg" alt="Charbel Salhab | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/charbelsalhabb/"><img align="left" src="images/instagram.svg" alt="Charbel Salhab | Instagram" width="21px"/></a>
+<a href="https://www.instagram.com/chblslb/"><img align="left" src="images/instagram.svg" alt="Charbel Salhab | Instagram" width="21px"/></a>
 <a href="https://discordapp.com/users/689169623790518425"><img align="left" src="images/discord.png" alt="Charbel Salhab | Discord" width="21px"/></a> 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
