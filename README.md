@@ -32,7 +32,6 @@ Hi there, I'm <a href="https://github.com/c-salhab" target="_blank" rel="norefer
 <a href="https://www.linkedin.com/in/charbel-salhab-828b0a221/"><img align="left" src="images/linkedin.svg" alt="Charbel Salhab | LinkedIn" width="30px"/></a>
 <a href="https://www.instagram.com/chblslb/"><img align="left" src="images/instagram.svg" alt="Charbel Salhab | Instagram" width="30px"/></a>
 <a href="https://discordapp.com/users/689169623790518425"><img align="left" src="images/discord.png" alt="Charbel Salhab | Discord" width="30px"/></a>  
-<a href="https://c-salhab.github.io/portfolio/"><img align="left" src="images/portfolio.svg" alt="Charbel Salhab | Portfolio" width="30px"/></a>
 </br>
 💬 Feel free to reach out for collaborations or just to connect!
 
