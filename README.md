@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://github.com/c-salhab" target="_blank" rel="norefer
 </h1>
 
 <h2 align="center">
-🚀 AI Consultant Apprentice | Machine Learning and Big Data Enthusiast
+🚀 Data Analyst Apprentice | Machine Learning and Big Data Enthusiast
 </h2>
 
 <p align="center">
@@ -21,7 +21,7 @@ Hi there, I'm <a href="https://github.com/c-salhab" target="_blank" rel="norefer
 
 ## 🌟 About Me
 
-- 💼 **Current Role:** AI Consultant Apprentice at **Murex, Paris**  
+- 💼 **Current Role:** Data Analyst Apprentice at **BNP Paribas CIB, Pantin**  
 - 📚 **Education:** Pursuing a **Master's in AI and Big Data** at **École Supérieure de Génie Informatique**  
 - 🌐 Fluent in **English**, **French**, and **Arabic**  
 - 🧠 Always eager to learn, innovate, and optimize through technology!  
